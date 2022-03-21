@@ -1,0 +1,19 @@
+{
+  "name": "codoacodo",
+  "version": "1.0.0",
+  "description": "proyecto para codo a codo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaohhs/codoacodo.git"
+  },
+  "author": "Marcelo Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaohhs/codoacodo/issues"
+  },
+  "homepage": "https://github.com/kaohhs/codoacodo#readme"
+}
