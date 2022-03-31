@@ -1,0 +1,62 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+li {
+    box-sizing: border-box;
+    
+
+}
+
+
+
+ul {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    padding: 25px;
+    margin-right: auto;
+    font-size: 5em;
+    
+  }
+
+  
+  
+.uno {
+    background-color: red;
+    color: yellow;
+    width: 25vw;
+    height: 50vh;
+    
+    
+}
+
+.dos {
+    background-color: black;
+    color: white;
+    width: 25vw;
+    height: 50vh;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+
+.tres {
+    background-color: red;
+    color: yellow;
+    width: 25vw;
+    height: 50vh;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+
+.cuatro {
+    background-color: red;
+    color: yellow;
+    width: 25vw;
+    height: 50vh;
+    padding-left: 5px;
+    margin-left: 5px;
+    border: 1px solid ;
+}
