@@ -4,8 +4,13 @@
 }
 
 body {
-    background-color: grey;
+    background-color: rgb(224, 223, 223);
 
+}
+
+h1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 ul {
@@ -19,6 +24,11 @@ li {
     padding-top: 5%;
     font-size: larger;
     font-family: sans-serif;
+}
+
+a {
+    color: red;
+    text-decoration: none;
 }
 
 .footer {
