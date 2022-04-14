@@ -52,7 +52,7 @@ a {
   align-items: center;
   font-family: "Times New Roman", Times, serif;
   font-size: larger;
-  background-color: yellow;
+  background-color: rgb(131, 131, 127);
   justify-self: center;
   display: flex;
   flex-direction: column;
@@ -95,7 +95,6 @@ a {
   background-color: #ffffff;
   
 }
-
 
 
 /* termina formulario */
