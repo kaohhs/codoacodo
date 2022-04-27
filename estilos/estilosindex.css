@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-    color: aliceblue;
+    color: black;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
 h2 {
-    color: aliceblue
+    color: black
 }
 
 h3 {
@@ -46,6 +46,7 @@ a {
     font-size: 1.5em;
     font-weight: 500;
     justify-self:flex-start;
+    color: black
     
 }
 
